@@ -21,4 +21,4 @@ htmlcov/
 .DS_Store
 
 audio/input/*.wav
-audio/output/*.wav
+audio/output/*.wav.DS_Store
